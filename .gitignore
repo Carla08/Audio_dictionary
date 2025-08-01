@@ -208,3 +208,4 @@ __marimo__/
 
 # GCP creds
 gcp-creds.json
+backend/.env
